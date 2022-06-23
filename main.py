@@ -2,7 +2,7 @@
 
 
 def Add(a, b):
-        return a + b
+        return a * b
         
 def SayHello():
         print("Hello World, from Terakeet!")
